@@ -1,0 +1,23 @@
+
+h1{  
+	font-size: 50px;
+	text-align: center;
+}
+
+p{
+
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+body{ 
+	background-image:url(imagem.png);
+}
+
+.botao{
+	text-align: center;
+	font-size: 40px;
+	color: purple;
+	href="http://www.google.com.br";
+}
