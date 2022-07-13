@@ -1,0 +1,108 @@
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+    }
+
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:600px; } */
+    }
+
+@media only screen and (max-device-width: 700px) {
+    /* .menu { width:400px; } */
+    }
+
+body{
+    margin: 0px;
+    background-color: #9966cc
+    
+}
+
+
+.blocofundo{
+    background-color: rgba(23, 21, 21, 0.815);
+    left: 50%;
+    top: 50%;
+    border-radius: 5%;
+    margin-left: -500px;
+    /* Metade do valor da Largura */
+    margin-top: -400px;
+    /* Metade da valor da Altura */
+    position: absolute;
+    width: 1000px;
+    /* Valor da Largura */
+    height: 800px;
+    /* Valor da Altura */
+}
+
+.logotipo{
+    margin: -90px;
+    position: absolute;
+    top: -30px;
+    right: 350px;
+}
+
+.h1fund{
+    color:#9966cc;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    margin: 80px;
+    position: absolute;
+    top: 160px;
+    right: 335px;
+}
+
+.fundador1{
+    margin: 0px;
+    margin-top: 350px;
+    margin-left:200px ;
+    height: 125px;
+    width: 650px;
+    border-radius:20px;
+    background-color: rgba(34, 33, 33, 0.563);
+    color: rgba(34, 33, 33, 0.563);
+    border: rgba(34, 33, 33, 0.563);
+}
+
+.theteu{
+    height:130px;
+    border-radius: 50%;
+    margin: 150px;
+    margin-top: -1px;
+    margin-left: -40px;
+    right: 635px;
+}
+
+.tazemi{
+    height:130px;
+    border-radius: 50%;
+    margin: 150px;
+    margin-top: -1px;
+    margin-left: -40px;
+    right: 635px;
+}
+
+.fundador2{
+    margin: 0px;
+    margin-top: 50px;
+    margin-left:200px ;
+    height: 125px;
+    width: 650px;
+    border-radius:20px;
+    background-color: rgba(34, 33, 33, 0.563);
+    color: rgba(34, 33, 33, 0.563);
+    border: rgba(34, 33, 33, 0.563);
+}
+
+.h1theteu{
+    color: #9966cc;
+    font-family: 'Edu SA Beginner', cursive;
+    margin-top: -240px;
+    margin-left: 220px;
+}
+
+.h1tazemi{
+    color: #9966cc;
+    font-family: 'Edu SA Beginner', cursive;
+    margin-top: -240px;
+    margin-left: 220px;
+}
+
